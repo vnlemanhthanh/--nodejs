@@ -20,3 +20,4 @@ console.log(validator.isEmail('vnlemanhthanh@gmail.com'))
 console.log(validator.isURL('https://vnlemanhthanh.github/'))
 const greenMsh = chalk.green('Success!')
 console.log(greenMsh)
+// fdsfdsf
