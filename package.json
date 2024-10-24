@@ -9,6 +9,7 @@
   "author": "vnlemanhthanh",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^4.1.2",
     "validator": "^13.12.0"
   }
 }
